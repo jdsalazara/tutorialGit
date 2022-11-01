@@ -1,2 +1,0 @@
-# tutorialGit
-my first time
